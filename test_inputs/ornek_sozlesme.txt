@@ -1,0 +1,30 @@
+HİZMET SÖZLEŞMESİ
+
+Sözleşme No: HS-2026-889
+Tarih: 2026-06-18
+Bitiş Tarihi: 2027-06-18
+
+Taraflar:
+Hizmet Sağlayıcı: Delta Yazılım Hizmetleri A.Ş.
+Vergi No: VN-1234567890
+
+Hizmet Alan: Beta Teknoloji Grubu Ltd.
+
+Sözleşme Konusu:
+Yazılım geliştirme ve bulut entegrasyon desteği verilmesi.
+
+Hizmet Ücreti:
+Aylık Ücret: 5000.00 USD
+KDV (%20): 1000.00 USD
+Toplam Aylık Tutar: 6000.00 USD
+
+Ödeme Tablosu:
+1. Kurulum Aşaması - Miktar: 1, Birim Fiyat: 5000.00, Toplam: 5000.00
+2. Aylık Destek - Miktar: 12, Birim Fiyat: 6000.00, Toplam: 72000.00
+
+İmzalar:
+Hizmet Sağlayıcı: Ahmet Yılmaz, Delta Yazılım
+Hizmet Alan: Mehmet Demir, Beta Teknoloji
+
+Kaşe / Mühür: DELTA A.Ş. RESMİ MÜHRÜ
+Anomali Notu: Sözleşmenin 4. maddesi üzerinde el yazısıyla düzeltme yapılmıştır.

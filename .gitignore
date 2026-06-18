@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Personal / Private test documents
+
+
+# Agent configuration folder
+.agents/
